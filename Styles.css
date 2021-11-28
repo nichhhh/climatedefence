@@ -494,7 +494,7 @@ position: relative;
 }
 
 #icecapsphoto {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(ice%20caps%20icon.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Ice%20caps%20icon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
